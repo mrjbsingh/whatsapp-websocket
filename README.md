@@ -1,5 +1,6 @@
 # WhatsApp-like WebSocket Chat Application
 
+Updated on: 26 JUL 2025
 A real-time chat application built with Spring Boot WebSocket and basic HTML/CSS/JavaScript frontend, similar to WhatsApp functionality.
 
 ## Features
